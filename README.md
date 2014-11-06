@@ -22,9 +22,17 @@ Version
 
 Licence
 ----
-
 * [Licence MIT]
+
+Author
+----
+Arthur ROUSSEAU
+* Mail : [arthur.rousseau2@gmail.com]
+* Twitter : [@4rthurRousseau]
 
 [Licence MIT]:http://opensource.org/licenses/MIT
 [@FGRibreau]:https://twitter.com/FGRibreau
 [GitHub]:https://github.com/FGRibreau/
+
+[arthur.rousseau2@gmail.com]:mailto:arthur.rousseau2@gmail.com
+[@4rthurRousseau]:https://twitter.com/4rthurRousseau
